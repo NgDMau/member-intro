@@ -1,0 +1,29 @@
+{
+  "name": "member-intro",
+  "version": "1.0.0",
+  "description": "Small site that introduces org's members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgDMau/member-intro.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "NgDMau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgDMau/member-intro/issues"
+  },
+  "homepage": "https://github.com/NgDMau/member-intro#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}

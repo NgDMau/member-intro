@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen Tien Dung",
+        "avatar_url": "img/tiendung.jpg",
+        "quote": "Bon ranh con nay!"
+    },
+    {
+        "id": 2,
+        "name": "Nguyen Duc Huynh",
+        "avatar_url": "img/huynh.jpg",
+        "quote": "Hehehe"
+    },
+    {
+        "id": 3,
+        "name": "Nguyen Ha Thu",
+        "avatar_url": "img/hathu.jpg",
+        "quote": "O the ah"
+    },{
+        "id": 4,
+        "name": "Phan Minh Quan",
+        "avatar_url": "img/pquan.jpg",
+        "quote": "Oh great!"
+    },
+    {
+        "id": 5,
+        "name": "Nguyen Dinh Mau",
+        "avatar_url": "img/mau.jpg",
+        "quote": "Hello World!"
+    },
+    {
+        "id": 6,
+        "name": "Nguyen Dinh Dung",
+        "avatar_url": "img/dinhdung.jpg",
+        "quote": "Xin chao cac ban"
+    }
+
+]
